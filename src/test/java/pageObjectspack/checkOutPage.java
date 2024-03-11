@@ -23,6 +23,7 @@ public class checkOutPage {
 	{
 		driver.findElement(checkOutbtn).click();
 		driver.findElement(proceedbtn).click();
+		System.out.println("github");
 		
 	}
 	
